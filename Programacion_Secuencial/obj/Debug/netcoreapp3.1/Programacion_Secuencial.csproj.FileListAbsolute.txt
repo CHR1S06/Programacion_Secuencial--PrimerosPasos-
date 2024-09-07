@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\bin\Debug\netcoreapp3.1\Programacion_Secuencial.exe
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\bin\Debug\netcoreapp3.1\Programacion_Secuencial.deps.json
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\bin\Debug\netcoreapp3.1\Programacion_Secuencial.runtimeconfig.json
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\bin\Debug\netcoreapp3.1\Programacion_Secuencial.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\bin\Debug\netcoreapp3.1\Programacion_Secuencial.dll
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\bin\Debug\netcoreapp3.1\Programacion_Secuencial.pdb
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.dll
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.pdb
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.genruntimeconfig.cache
