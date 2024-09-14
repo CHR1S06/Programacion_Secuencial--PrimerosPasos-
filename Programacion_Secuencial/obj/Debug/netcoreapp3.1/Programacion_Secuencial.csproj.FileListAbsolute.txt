@@ -11,3 +11,4 @@ C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\ob
 C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.dll
 C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.pdb
 C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.genruntimeconfig.cache
+C:\Users\UserGPC\source\repos\Programacion_Secuencial\Programacion_Secuencial\obj\Debug\netcoreapp3.1\Programacion_Secuencial.sourcelink.json
