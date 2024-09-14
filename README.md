@@ -13,9 +13,10 @@ El objetivo es desarrollar un programa en C# que abarque tres funcionalidades di
 3.	Cálculo del Total a Pagar:
    
       o	Descripción: El programa debe pedir al usuario que ingrese el precio de un artículo y la cantidad de artículos que desea comprar. Con estos datos, el programa debe calcular el total a pagar multiplicando el precio del artículo por la cantidad. Luego, debe          mostrar el monto total que el comprador debe abonar.
+  	
       o	Propósito: Esta funcionalidad es útil para calcular el costo total de una compra en función del precio unitario y la cantidad de artículos comprados.
 
-4.	Suma y Promedio de Cuatro Números:
+5.	Suma y Promedio de Cuatro Números:
 	
       o	Descripción: El programa debe permitir al usuario ingresar cuatro valores numéricos. Luego, debe calcular y mostrar la suma total de estos cuatro números, así como el promedio (que es la suma dividida entre cuatro).
   	
