@@ -5,12 +5,14 @@ Descripción del Problema:
 El objetivo es desarrollar un programa en C# que abarque tres funcionalidades distintas mediante un menú de selección. Cada opción del menú debe ejecutar un programa específico. 
 
 1.	Suma y Producto de Dos Números:
+
   o	Descripción: El programa debe solicitar al usuario que ingrese dos números enteros. Una vez que ambos números han sido ingresados, el programa debe calcular y mostrar dos resultados: la suma de los dos números y su producto.
   o	Propósito: Esta funcionalidad permite realizar operaciones básicas aritméticas con dos números proporcionados por el usuario.
-2.	Cálculo del Total a Pagar:
+  
+3.	Cálculo del Total a Pagar:
   o	Descripción: El programa debe pedir al usuario que ingrese el precio de un artículo y la cantidad de artículos que desea comprar. Con estos datos, el programa debe calcular el total a pagar multiplicando el precio del artículo por la cantidad. Luego, debe mostrar el monto total que el comprador debe abonar.
   o	Propósito: Esta funcionalidad es útil para calcular el costo total de una compra en función del precio unitario y la cantidad de artículos comprados.
-3.	Suma y Promedio de Cuatro Números:
+4.	Suma y Promedio de Cuatro Números:
   o	Descripción: El programa debe permitir al usuario ingresar cuatro valores numéricos. Luego, debe calcular y mostrar la suma total de estos cuatro números, así como el promedio (que es la suma dividida entre cuatro).
   o	Propósito: Esta funcionalidad proporciona una forma sencilla de calcular estadísticas básicas (suma y promedio) para un conjunto fijo de números ingresados por el usuario.
 
