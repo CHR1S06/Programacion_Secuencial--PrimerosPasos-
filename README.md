@@ -26,7 +26,7 @@ Implementación en un Solo Programa con Menú:
 
 El programa está diseñado con un menú principal que permite al usuario seleccionar cuál de las tres funcionalidades desea ejecutar. La estructura del programa es la siguiente:
 
-1.	Menú Principal:
+1. Menú Principal:
 
 o	Función: Presenta al usuario un menú con cuatro opciones:
 
@@ -41,7 +41,7 @@ o	Función: Presenta al usuario un menú con cuatro opciones:
 o	Propósito: Facilita la navegación entre diferentes funcionalidades del programa en una sola interfaz.
 
 
-3.	Funcionalidades Específicas:
+2. Funcionalidades Específicas:
    
     o	App1: Maneja la funcionalidad de suma y producto de dos números.
   
